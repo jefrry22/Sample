@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <%Response. Write( "HeIIo World. This is Kalpita Jefrry. Have a nice day!This is to check-in"); %>
+            <%Response. Write( "HeIIo World. This is Kalpita Jefrry. Have a nice day!This is to check-in.Time check"); %>
         </div>
     </form>
 </body>
